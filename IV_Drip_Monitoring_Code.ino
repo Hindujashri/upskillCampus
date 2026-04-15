@@ -2,7 +2,7 @@
 #include <HTTPClient.h>
 #include <time.h>
 
-// WiFi credentials (keep placeholder for GitHub)
+// WiFi credentials 
 const char* ssid = "YOUR_WIFI_NAME";
 const char* password = "YOUR_WIFI_PASSWORD";
 
